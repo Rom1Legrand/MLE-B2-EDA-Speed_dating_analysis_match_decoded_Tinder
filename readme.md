@@ -34,11 +34,14 @@ Face à une baisse des matches, Tinder cherche à comprendre ce qui fait que les
 ## 🛠 Technologies Utilisées
 - Python
 - Pandas pour la manipulation des données
-- Seaborn/Matplotlib pour les visualisations
+- Seaborn/Matplotlib pour les visualisations ()
 - NumPy pour les calculs statistiques
 
+## 📈 Visualisations
+A compléter
+
 ## 📁 Structure du Projet
-speed-dating-analysis/
+```speed-dating-analysis/
 │
 ├── src/
 │   └── Speed_Dating_Data.csv
@@ -47,3 +50,4 @@ speed-dating-analysis/
 │
 ├── tinder.ipynb
 └── README.md
+```
