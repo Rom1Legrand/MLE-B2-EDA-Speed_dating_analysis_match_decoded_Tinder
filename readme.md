@@ -38,7 +38,7 @@ Face à une baisse des matches, Tinder cherche à comprendre ce qui fait que les
 - NumPy pour les calculs statistiques
 
 ## 📈 Visualisations
-A compléter
+
 
 ## 📁 Structure du Projet
 ```speed-dating-analysis/
